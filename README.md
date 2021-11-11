@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wilson Gimenes da Silva
 
-- 🌱 Estudando Java - Spring Boot
+- 🌱 Estudando Java - Spring Framework
 - 😄 Pronouns:  ele/dele
 
 <div>
