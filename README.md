@@ -1,4 +1,4 @@
-### Olá! Eu sou o Wilson Gimenes da Silva
+### Olá! Eu sou o Wilson (Will)
 
 - 🌱 Estudando Java - Spring Framework
 - 😄 Pronouns:  ele/dele
