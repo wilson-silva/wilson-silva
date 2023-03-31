@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wilson (Will)
 
-- 🌱 Estudando Java - Spring Framework
+- 🌱 Estudando Java - Spring
 - 😄 Pronouns:  ele/dele
 
 <div>
