@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wilson (Will)
 
-- 🌱 Desenvolvedor Java Júnior
+- 🌱 Desenvolvedor Backend Java 
 - 😄 Pronouns:  ele/dele
 
 <div>
